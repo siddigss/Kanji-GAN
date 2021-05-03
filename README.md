@@ -7,8 +7,8 @@ Linear interpolation between outputs from several normal samples.
 https://user-images.githubusercontent.com/49623314/116908286-601d7500-ac4b-11eb-9730-7da246a6a19d.mp4
 
 
-# How to use it
-Then use the Jupyer notebook.  
+# Usage
+As direct as opening the Jupyer notebook.  
 Check releases if you want trained networks for -currently- about 70 or 80 epochs.
 
 ### Extracting data
