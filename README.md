@@ -1,5 +1,6 @@
 # Kanji-GAN
-A GAN that produces Kanji similar characters (images).
+A GAN that produces Kanji similar characters (images).  
+Following the tutorial in ![pytorch website](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 
 # Results
 Linear interpolation between outputs from several normal samples.  
