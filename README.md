@@ -1,6 +1,6 @@
 # Kanji-GAN
 A GAN that produces Kanji similar characters (images).  
-Following the tutorial on ![pytorch website](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html).
+Almost following the tutorial on ![pytorch website](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html).
 
 # Results
 Linear interpolation between outputs from several normal samples.  
@@ -16,3 +16,6 @@ Check releases if you want trained networks for -currently- about 70 or 80 epoch
 First, install `Fontforge`. Then In the repository folder run the command  
 `Fontforge -lang=py -script script.py`  
 A new folder which contains the images will be created.
+
+### Notes
+* Apparently the training is very sensitive to hyperparameters, stick to the values suggested in the tutorial.
