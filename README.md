@@ -1,8 +1,8 @@
 # Kanji-GAN
 A GAN that produces Kanji similar characters (images).
 
-# Status
-Incomplete. Stuck with training.
+# Results
+![https://streamable.com/dt4t2u]
 
 # How to use it
 ### Extracting data
